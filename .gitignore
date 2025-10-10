@@ -1,0 +1,24 @@
+#Git 过滤配置                                                                                                             
+
+*.vs
+*.db
+*.air
+*.ipa
+*.sln
+*.suo
+*.swf
+*.exe
+*.apk
+*.user
+*.ipch
+*.filters
+*.vcxproj
+
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+.settings/
+bin-debug/
+bin-release/
+
